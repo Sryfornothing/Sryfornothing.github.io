@@ -1,0 +1,12 @@
+body {
+ text-align: center;
+}
+
+.a {
+ font-size: 30px;
+ color: green;
+ margin-top: 60px;
+ margin-left: 60px;
+ margin-right: 60px;
+ border: 3px purple solid;
+}
